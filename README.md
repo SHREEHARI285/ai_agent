@@ -4,7 +4,7 @@ An AI agent powered by Gemini that reasons about which tool to use
 to answer complex questions.
 
 ## Live Demo
-🔗 [Coming soon]
+🔗 [https://aiagent-hari.streamlit.app/]
 
 ## Tools Available
 - 🧮 **Calculator** — math expressions
